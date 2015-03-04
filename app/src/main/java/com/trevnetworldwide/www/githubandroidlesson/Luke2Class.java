@@ -5,7 +5,7 @@ package com.trevnetworldwide.www.githubandroidlesson;
  */
 public class Luke2Class {
 
-    int numbercount = 59348;
+    int numbercount = 500;
 
 
     public Luke2Class() {
