@@ -5,5 +5,5 @@ package com.trevnetworldwide.www.githubandroidlesson;
  */
 public class LukeClass {
 
-    //hi guys
+    //wqerwe;lmf;lmf;lmfl;m;lgme;lrmg;lemrg;ermg;ermg;lm
 }
